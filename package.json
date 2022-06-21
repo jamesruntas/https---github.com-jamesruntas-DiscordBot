@@ -1,0 +1,8 @@
+{
+"name": "NAV Bot",
+"version": "1.0.0",
+"description": "goat",
+"main": "bot.js",
+"author": "fargbus",
+"dependencies": {}
+}
